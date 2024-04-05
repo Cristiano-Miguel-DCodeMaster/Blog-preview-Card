@@ -9,8 +9,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   ## Built with
 -I built the project, using HTML and CSS
 
-  ## What I learned
--I learned a lot from the project
 
 ## Author
 -Cristiano-Miguel-DCodeMaster
@@ -20,8 +18,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
@@ -30,5 +26,5 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Cristiano-Miguel-DCode Master](https://www.your-site.com)
+- Website - [Cristiano-Miguel-DCode Master](https://github.com/cristiano-miguel-dcodemaster)
 - Frontend Mentor - [@Cristiano-Miguel-DCode Master](https://www.frontendmentor.io/profile/yourusername)
