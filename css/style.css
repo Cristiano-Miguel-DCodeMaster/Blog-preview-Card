@@ -1,9 +1,9 @@
 @font-face {
-	font-family: "inter1";
+	font-family: 'inter1',sans-serif;
 	src: url(/assets/fonts/Figtree-Italic-VariableFont_wght.ttf);
 }
 @font-face {
-	font-family: "inter2";
+	font-family: 'inter2',sans-serif;
 	src: url(/assets/fonts/Figtree-VariableFont_wght.ttf);
 }
 * {
@@ -141,14 +141,14 @@ h2 {
 	h2 {
 		font-weight: 800;
 		padding-top: 10px;
-		font-family: inter2;
+		font-family: 'inter2';
 		font-size: 16px;
 	}
 	.these {
 		color: var(--Grey);
 		font-size: 12px;
 		padding-top: 15px;
-		font-family: inter2;
+		font-family: 'inter2';
 		text-align: left;
 	}
 	.lastsection {
@@ -166,7 +166,7 @@ h2 {
 	}
 	.Greg {
 		font-size: 12px;
-		font-family: inter2;
+		font-family: 'inter2';
 		font-weight: 800;
 	}
 }
@@ -202,26 +202,26 @@ h2 {
 		border-radius: 6px;
 		font-weight: bolder;
 		text-align: center;
-		font-family: inter2;
+		font-family: 'inter2';
 		font-size: 12px;
 	}
 	.publish {
 		padding-top: 15px;
 		color: var(--Black);
 		font-size: 12px;
-		font-family: inter2;
+		font-family: 'inter2';
 	}
 	h2 {
 		font-weight: 800;
 		padding-top: 10px;
-		font-family: inter2;
+		font-family: 'inter2';
 		font-size: 16px;
 	}
 	.these {
 		color: var(--Grey);
 		font-size: 12px;
 		padding-top: 15px;
-		font-family: inter2;
+		font-family: 'inter2';
 		text-align: left;
 	}
 	.lastsection {
@@ -239,7 +239,7 @@ h2 {
 	}
 	.Greg {
 		font-size: 16px;
-		font-family: inter2;
+		font-family: 'inter2';
 		font-weight: 800;
 	}
 }
@@ -275,26 +275,26 @@ h2 {
 		border-radius: 6px;
 		font-weight: bolder;
 		text-align: center;
-		font-family: inter2;
+		font-family: 'inter2';
 		font-size: 18px;
 	}
 	.publish {
 		padding-top: 15px;
 		color: var(--Black);
 		font-size: 14px;
-		font-family: inter2;
+		font-family: 'inter2';
 	}
 	h2 {
 		font-weight: 800;
 		padding-top: 10px;
-		font-family: inter2;
+		font-family: 'inter2';
 		font-size: 18px;
 	}
 	.these {
 		color: var(--Grey);
 		font-size: 14px;
 		padding-top: 15px;
-		font-family: inter2;
+		font-family: 'inter2';
 		text-align: left;
 	}
 	.lastsection {
@@ -312,7 +312,7 @@ h2 {
 	}
 	.Greg {
 		font-size: 16px;
-		font-family: inter2;
+		font-family: 'inter2';
 		font-weight: 800;
 	}
 }
@@ -348,26 +348,26 @@ h2 {
 		border-radius: 6px;
 		font-weight: bolder;
 		text-align: center;
-		font-family: inter2;
+		font-family: 'inter2';
 		font-size: 16px;
 	}
 	.publish {
 		padding-top: 15px;
 		color: var(--Black);
 		font-size: 14px;
-		font-family: inter2;
+		font-family: 'inter2';
 	}
 	h2 {
 		font-weight: 800;
 		padding-top: 10px;
-		font-family: inter2;
+		font-family: 'inter2';
 		font-size: 18px;
 	}
 	.these {
 		color: var(--Grey);
 		font-size: 14px;
 		padding-top: 15px;
-		font-family: inter2;
+		font-family: 'inter2';
 		text-align: left;
 	}
 	.lastsection {
@@ -385,7 +385,7 @@ h2 {
 	}
 	.Greg {
 		font-size: 18px;
-		font-family: inter2;
+		font-family: 'inter2';
 		font-weight: 800;
 	}
 }
@@ -421,25 +421,25 @@ h2 {
 		border-radius: 6px;
 		font-weight: bolder;
 		text-align: center;
-		font-family: inter2;
+		font-family: 'inter2';
 		font-size: 9px;
         margin-top: -23px;
 	}
 	.publish {
 		color: var(--Black);
 		font-size: 9px;
-		font-family: inter2;
+		font-family: 'inter2';
         margin-top: -10px;
 	}
 	h2 {
 		font-weight: 800;
-		font-family: inter2;
+		font-family: 'inter2';
 		font-size: 15.7px;
 	}
 	.these {
 		color: var(--Grey);
 		font-size: 11px;
-		font-family: inter2;
+		font-family: 'inter2';
 		text-align: left;
 	}
 	.lastsection img {
@@ -448,7 +448,7 @@ h2 {
 	}
 	.Greg {
 		font-size: 9px;
-		font-family: inter2;
+		font-family: 'inter2';
 		font-weight: 500;
 	}
 }
