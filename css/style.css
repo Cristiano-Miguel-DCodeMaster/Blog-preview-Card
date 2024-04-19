@@ -69,6 +69,7 @@ section {
 	.These{
 		font-size: 13px;
 		padding-bottom: 15px;
+		color: var(--Grey);
 	}
 	.lastsection{
 		gap: 10px;
@@ -81,4 +82,202 @@ section {
 		font-size: 13px;
 		font-weight: bolder;
 	}
+}
+@media only screen and (min-width:375px) and (min-height:812px){
+	section{
+		width: 75%;
+	}
+	.img{
+		padding-bottom: 10px;
+	}
+	h1{
+		font-size: 14px;
+		padding: 6px;
+		padding-left: 9px;
+		padding-right: 9px;
+		font-weight: 900;
+	}
+	.Published{
+		padding-top: 15px;
+		padding-bottom: 20px;
+		font-size: 13px;
+	}
+	h2{
+		font-size: 20px;
+		font-weight: 800;
+		padding-bottom: 10px;
+	}
+	.These{
+		font-size: 14px;
+	}
+	.lastsection{
+		padding-top: 10px;
+	}
+	.lastsection img{
+		width: 35px;
+		height: 35px;
+	}
+	.lastsection h3{
+		font-size: 14px;
+		font-weight: 800;
+	}
+}
+@media only screen and (min-width:425px){
+	section{
+		width: 70%;
+	}
+}
+@media only screen and (min-width:768px){
+	section{
+		width: 50%;
+	}
+	h1{
+		font-size: 15px;
+	}
+	.Published{
+		font-size: 14px;
+	}
+	h2{
+		font-size: 25px;
+		font-weight: 800;
+		padding-bottom: 10px;
+	}
+	.These{
+		font-size: 18px;
+	}
+	.lastsection img{
+		width: 40px;
+		height: 40px;
+	}
+	.lastsection h3{
+		font-size: 16px;
+		font-weight: 900;
+	}
+}
+@media only screen and (min-width:992px) and (min-height:600px){
+	section{
+		width: 35%;
+	}
+	.These{
+	font-size: 18px;
+}
+}
+@media only screen and (min-width:1280px) and (min-height:800px){
+	section{
+		width: 30%;
+	}
+	.These{
+	font-size: 18px;
+}
+.lastsection h3{
+	font-size: 19px;
+	font-weight: 800;
+}
+}
+@media only screen and (min-width:1440px) and (min-height:960px){
+	section{
+		width: 25%;
+	}
+	h1{
+		font-size: 17px;
+	}
+	.Published{
+		font-size: 16px;
+	}
+	.These{
+	font-size: 18px;
+}
+.lastsection h3{
+	font-size: 19px;
+	font-weight: 700;
+}
+}
+@media only screen and (min-width:1702px) and (min-height:960px){
+	section{
+		width: 25%;
+	}
+	h1{
+		font-size: 17px;
+	}
+	.Published{
+		font-size: 17px;
+	}
+	.These{
+	font-size: 20px;
+}
+.lastsection{
+	gap: 15px;
+}
+.lastsection h3{
+	font-size: 19px;
+	font-weight: 700;
+}
+}
+@media only screen and (min-width:1892px) and (min-height:960px){
+	section{
+		width: 25%;
+		padding: 30px;
+	}
+	h1{
+		font-size: 19px;
+		font-weight: 800;
+	}
+	.Published{
+		font-size: 19px;
+	}
+	.These{
+	font-size: 23px;
+}
+.lastsection{
+	gap: 17px;
+}
+.lastsection h3{
+	font-size: 22px;
+}
+}
+@media only screen and (min-width:2176px) and (min-height:960px){
+	h1{
+		font-size: 24px;
+		font-weight: 800;
+	}
+	.Published{
+		font-size: 21px;
+	}
+	h2{
+		font-size: 30px;
+	}
+	.These{
+	font-size: 27px;
+}
+.lastsection{
+	gap: 17px;
+}
+.lastsection h3{
+	font-size: 25px;
+}
+}
+@media only screen and (min-width:2554px) and (min-height:960px){
+	
+	section{
+		width: 20%;
+	}
+	h1{
+		font-size: 28px;
+		font-weight: 700;
+	}
+	.Published{
+		font-size: 25px;
+	}
+	h2{
+		font-size: 34px;
+	}
+	.These{
+	font-size: 25px;
+}
+.lastsection{
+	gap: 17px;
+}
+.lastsection h3{
+	font-size: 25px;
+}
 }
