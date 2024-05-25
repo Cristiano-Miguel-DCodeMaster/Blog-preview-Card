@@ -34,6 +34,55 @@ section {
 	display: flex;
 	align-items: center;
 }
+@media only screen and (max-width:320px){
+	section{
+		width: 80%;
+		padding: 20px;
+		border-radius: 12px;
+	}
+	.img{
+		padding-bottom: 10px;
+	}
+	.img img{
+		width: 100%;
+		height: fit-content;
+		border-radius:12px;
+	}
+	h1{
+		font-size: 12px;
+		background-color: var(--Yellow);
+		width: fit-content;
+		padding: 6px;
+		border-radius: 5px;
+		font-weight: 700;
+	}
+	.Published{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		font-size: 12px;
+	}
+	h2{
+		font-size: 18px;
+		font-weight: bold;
+		padding-bottom: 10px;
+	}
+	.These{
+		font-size: 13px;
+		padding-bottom: 15px;
+		color: var(--Grey);
+	}
+	.lastsection{
+		gap: 10px;
+	}
+	.lastsection img{
+		width: 30px;
+		height: 30px;
+	}
+	.lastsection h3{
+		font-size: 13px;
+		font-weight: bolder;
+	}
+}
 @media only screen and (min-width:320px){
 	section{
 		width: 80%;
